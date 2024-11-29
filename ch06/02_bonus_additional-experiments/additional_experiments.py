@@ -21,6 +21,14 @@ from gpt_download import download_and_load_gpt2
 from previous_chapters import GPTModel, load_weights_into_gpt
 
 
+
+# 官方实验代码，模型部分不做解释
+# 官方实验代码，模型部分不做解释
+# 官方实验代码，模型部分不做解释
+# 官方实验代码，模型部分不做解释
+# 官方实验代码，模型部分不做解释
+
+
 class LoRALayer(torch.nn.Module):
     def __init__(self, in_dim, out_dim, rank, alpha):
         super().__init__()

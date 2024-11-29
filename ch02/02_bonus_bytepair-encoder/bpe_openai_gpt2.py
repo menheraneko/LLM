@@ -33,6 +33,13 @@ from tqdm import tqdm
 from functools import lru_cache
 
 
+
+# 这里是openai复制过来的代码，本章中仅作导入gpt2模型存在，与本质内容不一致，这里不做解释。
+# 这里是openai复制过来的代码，本章中仅作导入gpt2模型存在，与本质内容不一致，这里不做解释。
+# 这里是openai复制过来的代码，本章中仅作导入gpt2模型存在，与本质内容不一致，这里不做解释。
+# 这里是openai复制过来的代码，本章中仅作导入gpt2模型存在，与本质内容不一致，这里不做解释。
+# 这里是openai复制过来的代码，本章中仅作导入gpt2模型存在，与本质内容不一致，这里不做解释。
+# 这里是openai复制过来的代码，本章中仅作导入gpt2模型存在，与本质内容不一致，这里不做解释。
 @lru_cache()
 def bytes_to_unicode():
     """
